@@ -1,7 +1,4 @@
 
-### README.md
-
-```markdown
 # Crypto Manager for ELYINR
 
 A comprehensive cryptocurrency trading and management system for ELYINR on CoinDCX with Discord notifications.
@@ -130,8 +127,6 @@ MIT
 ```
 
 ## Example code for the specific trading strategy (buy at 0.65, sell at 0.7)
-
-Here's a simple script that you can use directly for the specific trading strategy you mentioned:
 
 ### buy_sell_strategy.py
 
@@ -270,4 +265,3 @@ if __name__ == "__main__":
     run_strategy()
 ```
 
-This project provides a comprehensive solution for managing your ELYINR cryptocurrency trading with automated buying at 0.65 and selling at 0.7, along with Discord notifications for price alerts and trade updates. The modular design allows you to extend the functionality as needed.
